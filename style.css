@@ -1,0 +1,51 @@
+ul {
+  padding: 30px;
+  height: 200px;
+  border: solid 1px rgb(230, 230, 230);
+}
+
+#mixers {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60%;
+}
+#mixers li {
+  margin: 0 3px 3px 3px;
+  padding: 0.4em;
+  padding-left: 1.5em;
+  font-size: 1.4em;
+  height: 18px;
+  border: solid 1px rgb(189, 189, 189);
+  background-color: aliceblue;
+}
+#players {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60%;
+}
+#players li {
+  margin: 0 3px 3px 3px;
+  padding: 0.4em;
+  padding-left: 1.5em;
+  font-size: 1.4em;
+  height: 18px;
+  border: solid 1px rgb(189, 189, 189);
+  background-color: rgb(240, 255, 241);
+}
+#bin {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 40%;
+}
+#bin li {
+  margin: 0 3px 3px 3px;
+  padding: 0.4em;
+  padding-left: 1.5em;
+  font-size: 1.4em;
+  height: 18px;
+  border: solid 1px rgb(189, 189, 189);
+  background-color: rgb(255, 240, 240);
+}
